@@ -1,0 +1,7 @@
+datasets/
+runs/
+test/
+train/
+yolo*.pt
+.DS_Store
+.idea/

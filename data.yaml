@@ -1,0 +1,9 @@
+names:
+- Jett
+- Phoenix
+- Sage
+- Brimstone
+nc: 4
+test: datasets/dataset/images/test
+train: datasets/dataset/images/train
+val: datasets/dataset/images/val
