@@ -8,6 +8,7 @@ This project focuses on **fine-tuning a pretrained YOLOv11 model** to detect and
 
 - Detect agents within in-game screenshots.
 - Classify them correctly as **Phoenix**, **Jett**, **Brimstone**, or **Sage**.
+- 🔗 **Competition Link**: [Kaggle - Valorant Agent Detection](https://www.kaggle.com/competitions/valorant-agent-detection/overview)
 
 ### 📦 Dataset
 
