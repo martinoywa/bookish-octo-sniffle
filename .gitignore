@@ -2,6 +2,6 @@ datasets/
 runs/
 test/
 train/
-yolo*.pt
+*.pt
 .DS_Store
 .idea/
